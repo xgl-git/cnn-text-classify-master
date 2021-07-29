@@ -2,7 +2,7 @@
 this is a demo that use cnns doing text classification 
 
 library: 
-python 3.6.2 rtrr
+python 3.6.2
 keras 2.1.2
 scipy 
 json 
